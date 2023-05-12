@@ -4,7 +4,7 @@ Esse app tem como função de cadastrar despesas, e posteriormente consultar ela
 
 <hr>
 
-Tecnologias usadas: HTML, Bootstrap e javaScript.
+Tecnologias utilizadas: HTML, Bootstrap e javaScript.
 
 <hr>
 
