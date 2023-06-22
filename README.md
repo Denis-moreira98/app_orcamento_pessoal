@@ -1,4 +1,4 @@
-## App Orçamento Pessoal
+# App Orçamento Pessoal
 
 Esse app tem como função de cadastrar despesas, e posteriormente consultar elas, através de alguns filtros como, ano, mês, dia e tipo. Podendo também remove-las, através de um botão. Foi utilizado o Local Storage para armazenamento de dados.
 
